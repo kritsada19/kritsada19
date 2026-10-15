@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Chiang Rai
-* ✉️  You can contact me at [ninep9p2006@gmail.com](mailto:ninep9p2006@gmail.com)
+* ✉️  You can contact me at [kritsada.mooljam@gmail.com](mailto:kritsada.mooljam@gmail.com)
 * 🚀  I'm currently working on [CalDay](http://github.com/kritsada19/cal-day)
 
 <p align="left">
